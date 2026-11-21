@@ -29,15 +29,6 @@ Gosto muito da conexão entre tecnologia e negócios, principalmente no mercado 
 
 <img src="./divider.svg" width="100%" height="4" alt="">
 
-## Certificações
-
-- **Microsoft Azure Fundamentals** · AZ-900
-- **Microsoft 365 Copilot** · Expert · Itaú Unibanco
-- **Lean Six Sigma** · White Belt · Itaú Unibanco
-- **Gestão de Projetos** · Trained · Itaú Unibanco
-
-<img src="./divider.svg" width="100%" height="4" alt="">
-
 ## Em foco
 
 - Engenharia de dados: pipelines, ETL e modelagem
