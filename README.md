@@ -33,12 +33,10 @@ Por aqui, compartilho um pouco do que venho aprendendo e construindo! 💗
 
 ## Certificações
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-FF8FC2?style=for-the-badge&logo=microsoftazure&logoColor=0A0A0A" alt="Microsoft Azure Fundamentals (AZ-900)">
-  <img src="https://img.shields.io/badge/Ita%C3%BA_Unibanco-M365_Copilot_Expert-FF8FC2?style=for-the-badge&labelColor=1A1A1A" alt="M365 Copilot Expert — Itaú Unibanco">
-  <img src="https://img.shields.io/badge/Ita%C3%BA_Unibanco-Lean_Six_Sigma_White_Belt-FF8FC2?style=for-the-badge&labelColor=1A1A1A" alt="Lean Six Sigma White Belt — Itaú Unibanco">
-  <img src="https://img.shields.io/badge/Ita%C3%BA_Unibanco-Gest%C3%A3o_de_Projetos_Trained-FF8FC2?style=for-the-badge&labelColor=1A1A1A" alt="Gestão de Projetos Trained — Itaú Unibanco">
-</p>
+- **Microsoft Azure Fundamentals** · AZ-900
+- **Microsoft 365 Copilot** · Expert · Itaú Unibanco
+- **Lean Six Sigma** · White Belt · Itaú Unibanco
+- **Gestão de Projetos** · Trained · Itaú Unibanco
 
 <img src="./divider.svg" width="100%" height="4" alt="">
 
