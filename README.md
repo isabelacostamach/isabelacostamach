@@ -10,9 +10,7 @@
 
 Atualmente sou estagiária na área de Análise de Dados e Automação, onde descubro a cada dia mais possibilidades de trabalhar com dados. Essa experiência aumentou minha curiosidade e me aproximou ainda mais da **Engenharia de Dados**, área em que pretendo seguir carreira.
 
-Gosto muito da conexão entre tecnologia e negócios, principalmente no mercado financeiro, que já faz parte da minha trajetória profissional.
-
-Por aqui, compartilho um pouco do que venho aprendendo e construindo! 🧡
+Gosto muito da conexão entre tecnologia e negócios, principalmente no mercado financeiro, que já faz parte da minha trajetória profissional. 🧡
 
 <img src="./divider.svg" width="100%" height="4" alt="">
 
@@ -28,15 +26,6 @@ Por aqui, compartilho um pouco do que venho aprendendo e construindo! 🧡
 </p>
 
 <sub>Python · Pandas · SQL · AWS (S3 e Glue) · Azure · Git</sub>
-
-<img src="./divider.svg" width="100%" height="4" alt="">
-
-## Certificações
-
-- **Microsoft Azure Fundamentals** · AZ-900
-- **Microsoft 365 Copilot** · Expert · Itaú Unibanco
-- **Lean Six Sigma** · White Belt · Itaú Unibanco
-- **Gestão de Projetos** · Trained · Itaú Unibanco
 
 <img src="./divider.svg" width="100%" height="4" alt="">
 
