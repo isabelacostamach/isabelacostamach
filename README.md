@@ -12,8 +12,6 @@ Atualmente sou estagiária na área de Análise de Dados e Automação, onde des
 
 Gosto muito da conexão entre tecnologia e negócios, principalmente no mercado financeiro, que já faz parte da minha trajetória profissional.
 
-Por aqui, compartilho um pouco do que venho aprendendo e construindo! 💗
-
 <img src="./divider.svg" width="100%" height="4" alt="">
 
 ## Stack
