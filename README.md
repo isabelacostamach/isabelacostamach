@@ -19,14 +19,15 @@ Por aqui, compartilho um pouco do que venho aprendendo e construindo! 💗
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FF6FAE" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-FF8FC2?style=for-the-badge&logo=pandas&logoColor=0A0A0A" alt="Pandas">
-  <img src="https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=FF6FAE" alt="SQL">
-  <img src="https://img.shields.io/badge/AWS_S3-FF8FC2?style=for-the-badge&logo=amazons3&logoColor=0A0A0A" alt="AWS S3">
-  <img src="https://img.shields.io/badge/AWS_Glue-1A1A1A?style=for-the-badge&logoColor=FF6FAE" alt="AWS Glue">
-  <img src="https://img.shields.io/badge/Azure-FF8FC2?style=for-the-badge&logo=microsoftazure&logoColor=0A0A0A" alt="Azure">
-  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FF6FAE" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="44" alt="Pandas" title="Pandas">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="44" alt="SQL" title="SQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="44" alt="AWS (S3 e Glue)" title="AWS (S3 e Glue)">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="44" alt="Azure" title="Azure">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="44" alt="Git" title="Git">
 </p>
+
+<sub>Python · Pandas · SQL · AWS (S3 e Glue) · Azure · Git</sub>
 
 <img src="./divider.svg" width="100%" height="4" alt="">
 
