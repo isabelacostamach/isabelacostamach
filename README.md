@@ -10,8 +10,6 @@
 
 Atualmente sou estagiária na área de Análise de Dados e Automação, onde descubro a cada dia mais possibilidades de trabalhar com dados. Essa experiência aumentou minha curiosidade e me aproximou ainda mais da **Engenharia de Dados**, área em que pretendo seguir carreira.
 
-Gosto muito da conexão entre tecnologia e negócios, principalmente no mercado financeiro, que já faz parte da minha trajetória profissional. 🧡
-
 <img src="./divider.svg" width="100%" height="4" alt="">
 
 ## Stack
